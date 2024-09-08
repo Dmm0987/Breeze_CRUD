@@ -26,7 +26,7 @@
     }
 
     .btn-primary:hover {
-        background-color: #000;
+        background-color: #000000;
         color: white;
     }
 
